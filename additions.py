@@ -1,4 +1,3 @@
-# two player chess in python with Pygame!
 # pawn double space checking
 # castling
 # en passant
